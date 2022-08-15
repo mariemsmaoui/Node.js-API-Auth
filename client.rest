@@ -4,9 +4,9 @@ POST http://localhost:3000/api/user/register
 
 Content-Type: :application/json
 {
-    "name":"erwin",
-    "email":"erwin12@gmail.com",
-    "password":"erwin123"
+    "name":"",
+    "email":"@gmail.com",
+    "password":"n123"
 }
 
 
